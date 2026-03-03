@@ -2,8 +2,7 @@
 
 🧠 Product & UX enthusiast with a background in digital innovation<br>
 ⚙️ I explore how tech, design & user insights come together to build meaningful tools<br>
-🤖 Lately into agentic AI & how MCP (Memory, Cognition, Planning) helps shape product thinking<br>
-📱 I share thoughts, resources & experiments on Notion and sometimes on LinkedIn<br>
+🤖 Lately into agentic AI & how MCP (Model Context Protocol)<br>
 💡 Let’s chat if you’re into building useful, intuitive things — or just love a good problem to solve!<br>
 
 ## 🌐 Socials:
