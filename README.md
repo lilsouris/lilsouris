@@ -1,9 +1,9 @@
 ## Hi, I'm Thomas 👋
 
-🧠 Product & UX enthusiast with a background in digital innovation<br>
+🧠 Product & UX enthusiast <br>
 ⚙️ I explore how tech, design & user insights come together to build meaningful tools<br>
-🤖 Lately into agentic AI & MCP (Model Context Protocol)<br>
-💡 Let’s chat if you’re into building useful, intuitive things — or just love a good problem to solve!<br>
+🤖 Lately into agentic AI & MCP<br>
+💡 Let’s chat if you’re into building useful, intuitive things - or just love a good problem to solve!<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thomas-jay-fr/) 
